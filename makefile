@@ -6,7 +6,7 @@
 #     	Ian Petty
 # 	Summary:
 #     Simply type "make" and press enter. 
-#     Then type "a.out cameron.ged" and
+#     Then type "./a.out cameron.ged" and
 #     then press enter again. This should execute the program.
 ###############################################################
 
